@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2ef4f5f91d99444686113d5f9c8d815, type: 3}
+  m_Name: Death_Data
+  m_EditorClassIdentifier: 
+  dataName: Death
+  dragonBonesJSON: {fileID: 4900000, guid: 6a7e26271457d5e47a42b70830bbd3b9, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 3029b2c74bc41e444ae108d311412c13, type: 3}
+    texture: {fileID: 2800000, guid: 0c554f9cd9c08ee43b04ccbcc023e6d2, type: 3}
+    material: {fileID: 2100000, guid: 0b4d7e1b5ca5b1a4e975721c9476ba02, type: 2}
+    uiMaterial: {fileID: 0}
